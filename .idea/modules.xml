@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dropwizard-mongodb-ms.iml" filepath="$PROJECT_DIR$/dropwizard-mongodb-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todoist-demo-dropwizard.iml" filepath="$PROJECT_DIR$/todoist-demo-dropwizard.iml" />
+    </modules>
+  </component>
+</project>

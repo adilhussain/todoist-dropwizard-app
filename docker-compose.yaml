@@ -1,0 +1,42 @@
+version: '3'
+services:
+  mongodb:
+    image: mongo
+    restart: always
+    container_name: mongodb
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: admin
+    ports:
+      - 27017:27017
+    networks:
+      - todoist-demo-dropwizard-network
+
+  nginx:
+    image: nginx
+    container_name: nginx
+    volumes:
+    - ./nginx.conf:/etc/nginx/nginx.conf
+    ports:
+    - "8080:80"
+    networks:
+    - todoist-demo-dropwizard-network
+
+  todoist-demo-api:
+    image: openjdk:8-jre
+    container_name: todoist-demo-api
+    volumes:
+    - ./target/todoist-demo-dropwizard-1.0.0-SNAPSHOT.jar:/microservice/todoist-demo-dropwizard-1.0.0-SNAPSHOT.jar
+    - ./configuration.yml:/microservice/configuration.yml
+    working_dir: /microservice
+    command: ["java", "-jar", "todoist-demo-dropwizard-1.0.0-SNAPSHOT.jar", "server", "configuration.yml"]
+    ports:
+    - "8090:8080"
+    - "8091:8081"
+    networks:
+    - todoist-demo-dropwizard-network
+
+networks:
+  todoist-demo-dropwizard-network:
+    external:
+      name: todoist-demo-dropwizard-network

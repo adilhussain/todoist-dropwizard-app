@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54a7e5b8-d1f6-4815-bc58-0fa554e94d88" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dTyvQ4vPrIcdtIr71D5yA604i7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../angualr graphql" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.exception" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TodoistDemoDropWizardApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.demo.TodoistDemoDropWizardApplication" />
+      <module name="dropwizard-mongodb-ms" />
+      <option name="PROGRAM_PARAMETERS" value="server configuration.yml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54a7e5b8-d1f6-4815-bc58-0fa554e94d88" name="Default Changelist" comment="" />
+      <created>1592463607622</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592463607622</updated>
+      <workItem from="1592463610142" duration="10287000" />
+      <workItem from="1592474424122" duration="13741000" />
+      <workItem from="1592540952583" duration="17195000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="1080" width="740" height="768" key="#DropwizardMongoDBMicroserviceApplication" timestamp="1592470192360">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state x="589" y="1080" width="740" height="768" key="#DropwizardMongoDBMicroserviceApplication/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470192360" />
+    <state x="649" y="1167" width="553" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1592485466174">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state x="649" y="1167" width="553" height="592" key="#com.intellij.ide.util.MemberChooser/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592485466174" />
+    <state x="382" y="1080" width="1078" height="768" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592477464903">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state x="382" y="1080" width="1078" height="768" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592477464903" />
+    <state x="664" y="1212" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592477569750">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state x="664" y="1212" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592477569750" />
+    <state width="321" height="506" key="DebuggerActiveHint" timestamp="1592470253266">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="321" height="506" key="DebuggerActiveHint/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470253266" />
+    <state x="714" y="1221" width="424" height="484" key="FileChooserDialogImpl" timestamp="1592650669643">
+      <screen x="248" y="1080" width="1366" height="768" />
+    </state>
+    <state x="714" y="1221" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/248.1080.1366.768@248.1080.1366.768" timestamp="1592650669643" />
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom" timestamp="1592470377411">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.bottom/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377411" />
+    <state width="1320" height="230" key="GridCell.Tab.0.center" timestamp="1592470377411">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.center/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377411" />
+    <state width="1320" height="230" key="GridCell.Tab.0.left" timestamp="1592470377410">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.left/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377410" />
+    <state width="1320" height="230" key="GridCell.Tab.0.right" timestamp="1592470377411">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.0.right/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377411" />
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom" timestamp="1592470377411">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377411" />
+    <state width="1320" height="230" key="GridCell.Tab.1.center" timestamp="1592470377411">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.center/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377411" />
+    <state width="1320" height="230" key="GridCell.Tab.1.left" timestamp="1592470377411">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.left/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377411" />
+    <state width="1320" height="230" key="GridCell.Tab.1.right" timestamp="1592470377411">
+      <screen x="288" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.right/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592470377411" />
+    <state x="476" y="175" width="618" height="808" key="find.popup" timestamp="1592485240506">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="476" y="175" width="618" height="808" key="find.popup/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592485240506" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1592542650486">
+      <screen x="248" y="1080" width="1366" height="768" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592489311336" />
+    <state width="600" height="428" key="javadoc.popup/67.27.1853.1053/248.1080.1366.768@248.1080.1366.768" timestamp="1592542650486" />
+    <state x="248" y="1167" width="1356" height="592" key="new project wizard" timestamp="1592559717124">
+      <screen x="248" y="1080" width="1366" height="768" />
+    </state>
+    <state x="248" y="1167" width="1356" height="592" key="new project wizard/67.27.1853.1053/248.1080.1366.768@248.1080.1366.768" timestamp="1592559717124" />
+    <state x="554" y="1169" width="672" height="678" key="search.everywhere.popup" timestamp="1592559447466">
+      <screen x="248" y="1080" width="1366" height="768" />
+    </state>
+    <state x="594" y="1169" width="672" height="678" key="search.everywhere.popup/288.1080.1366.768/67.27.1853.1053@288.1080.1366.768" timestamp="1592485266949" />
+    <state x="554" y="1169" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053/248.1080.1366.768@248.1080.1366.768" timestamp="1592559447466" />
+    <state x="656" y="1294" width="540" height="337" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1592562570325">
+      <screen x="248" y="1080" width="1366" height="768" />
+    </state>
+    <state x="656" y="1294" width="540" height="337" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/67.27.1853.1053/248.1080.1366.768@248.1080.1366.768" timestamp="1592562570325" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/resources/TodoResource.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/db/daos/TodoDAO.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/db/daos/TodoDAO.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/demo/db/daos/TaskDAO.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
